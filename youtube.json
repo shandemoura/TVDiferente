@@ -1,0 +1,854 @@
+{
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CTgnCpaV0YSuUuNnYq07wPyst-4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XnSzylpfhQc"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-24T21:03:40Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "Hortifruti São Francisco - Cidade Baixa",
+        "description": "Hortifruti São Francisco Frutas e Verduras Frescas todos os dias! Rua Luiz Tarquinio, 32 Cidades Baixa WhatsApp: 71 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XnSzylpfhQc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XnSzylpfhQc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XnSzylpfhQc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-24T21:03:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uWL6OrTA22mFIlm4OHL1iVQWHsw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rWUPap9kJwQ"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-02T22:13:58Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "Livro Julia",
+        "description": "Livro Julia.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rWUPap9kJwQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rWUPap9kJwQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rWUPap9kJwQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-02T22:13:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "whbKmEhuINT6J9PcWKabC5Ch5ps",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LuYN4ywGo2o"
+      },
+      "snippet": {
+        "publishedAt": "2016-11-10T20:48:43Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "Depoimentos dos Expositores da feira Bahia Vitrinni - - Novembro de 2016",
+        "description": "Depoimentos dos Expositores da feira Bahia Vitrinni - Novembro de 2016.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LuYN4ywGo2o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LuYN4ywGo2o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LuYN4ywGo2o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-11-10T20:48:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AwbHHwMty84edHyInJK8OvPl9Ss",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dj_URPAfDHA"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-16T13:46:59Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "Video Guia",
+        "description": "Video Guia.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dj_URPAfDHA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dj_URPAfDHA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dj_URPAfDHA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-16T13:46:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RmBkyOWnFm4NJfTWJJnkvFepqHc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NsVTYNsKSU8"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-11T20:14:28Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "Cantina do Galeto Salvador-BA",
+        "description": "O melhor Galeto do Brasil! Agora com Franquia.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NsVTYNsKSU8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NsVTYNsKSU8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NsVTYNsKSU8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-11T20:14:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4Wv47N1oizIE4iUVxYmWKBcj-Y0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h4gU4P3SZXw"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-08T13:27:40Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "Guia Bomdemais",
+        "description": "Guia Bomdemais.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h4gU4P3SZXw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h4gU4P3SZXw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h4gU4P3SZXw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-08T13:27:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yjJaBo42gY6lsLn3iP7VbZEzaI0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0LS42iPXp90"
+      },
+      "snippet": {
+        "publishedAt": "2016-04-07T20:27:24Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "Cantina do Galeto",
+        "description": "Cantina do Galeto.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0LS42iPXp90/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0LS42iPXp90/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0LS42iPXp90/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-07T20:27:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HNnT9G4nETPj-7W6L4Hzi6b1lC0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bLkGCdPc7d4"
+      },
+      "snippet": {
+        "publishedAt": "2016-02-03T20:03:17Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "Parabéns Milena Barreto",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bLkGCdPc7d4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bLkGCdPc7d4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bLkGCdPc7d4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-02-03T20:03:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xoeX2Lw-lhLZ6sPu14JlyNKmjRg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YxdYIxx0JA4"
+      },
+      "snippet": {
+        "publishedAt": "2014-09-15T18:03:28Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "Chamada Lauro Online com Nelson Gonçalves",
+        "description": "Chamada Lauro Online com Nelson Gonçalves.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YxdYIxx0JA4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YxdYIxx0JA4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YxdYIxx0JA4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-09-15T18:03:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b-koAaopcPJPa8Ny2H6ajD8XI_A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RLY5fiIFID8"
+      },
+      "snippet": {
+        "publishedAt": "2014-07-23T20:43:39Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "Candidatos a Rainha e Peão da Vaquejada de Serrinha 2014",
+        "description": "Conheça os candidatos a Rainha e Peão da Vaquejada de Serrinha 2014.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RLY5fiIFID8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RLY5fiIFID8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RLY5fiIFID8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-07-23T20:43:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MBqkfWi0sVgcdx9XkRCtTltfevM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vGHwhv5ClsM"
+      },
+      "snippet": {
+        "publishedAt": "2014-05-08T12:24:58Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "Camarote Harém Oficial 2014",
+        "description": "Camarote Harém Oficial 2014.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vGHwhv5ClsM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vGHwhv5ClsM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vGHwhv5ClsM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-05-08T12:24:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ik9x62hqTUxe9R9Z27UgRFh9hJE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "68d3Jp_umzE"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-16T17:16:57Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "Bloquinho 2014",
+        "description": "www.divaentretenimento.com.br.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/68d3Jp_umzE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/68d3Jp_umzE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/68d3Jp_umzE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-16T17:16:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O0hQjcf42l-Y7X34uOnLl44iykw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xE8AI9psAgw"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-16T16:23:35Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "BAILE CINCO ESTRELAS - 2014",
+        "description": "BAILE CINCO ESTRELAS - 2014.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xE8AI9psAgw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xE8AI9psAgw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xE8AI9psAgw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-16T16:23:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mq9hwd91SQ6uM6P1T3yeW07_sSM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v9gnDtz4-es"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-16T10:19:01Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "Feijoada Vip da Dadá 2014",
+        "description": "Feijoada Vip da Dadá 2014.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v9gnDtz4-es/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v9gnDtz4-es/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v9gnDtz4-es/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-16T10:19:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LB73K-_wj2I9MN0WAjkU_abFbx4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZekVYpe-b-0"
+      },
+      "snippet": {
+        "publishedAt": "2014-04-10T14:22:20Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "Bloco Harém Oficial 2014",
+        "description": "Bloco Harém Oficial 2014.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZekVYpe-b-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZekVYpe-b-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZekVYpe-b-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-04-10T14:22:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "1POupoOdfGJQDX-ks0UHqemNAMs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F4rEUY1cGzk"
+      },
+      "snippet": {
+        "publishedAt": "2014-01-26T12:57:09Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "Clip Vim Vim - Cacau com Leite",
+        "description": "Clip Vim Vim - Cacau com Leite, regravação do Grande sucesso marcando os 20 anos da Banda. Agora parte do Grupo Marcus ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F4rEUY1cGzk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F4rEUY1cGzk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F4rEUY1cGzk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-01-26T12:57:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yEfswygbUxjBbdxwVF7pd4n5VSg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "N6WZW_srpr8"
+      },
+      "snippet": {
+        "publishedAt": "2013-12-09T20:17:07Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "TV Camara - Lauro de Freitas - 26/11/2013",
+        "description": "Sessão da Camara de Vereadores de Lauro de Freitas do dia 26/11/2013.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/N6WZW_srpr8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/N6WZW_srpr8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/N6WZW_srpr8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-12-09T20:17:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UIxzzqe6tcjZebMUFTU5rlfzWWE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5M2CV14jefI"
+      },
+      "snippet": {
+        "publishedAt": "2013-12-09T20:04:11Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "TV Camara - Lauro de Freitas - 21/11/2013",
+        "description": "Sessão da Camara de Vereadores de Lauro de Freitas do dia 21/11/2013.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5M2CV14jefI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5M2CV14jefI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5M2CV14jefI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-12-09T20:04:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UXNfOe622A4jzVfMk8H8F4ZBKgg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J4Z0t5moE6I"
+      },
+      "snippet": {
+        "publishedAt": "2013-12-09T19:19:32Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "TV Camara - Lauro de Freitas - 07/11/2013 - Parte 1",
+        "description": "Sessão da Camara de Vereadores de Lauro de Freitas do dia 07/11/2013 - Parte 1.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J4Z0t5moE6I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J4Z0t5moE6I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J4Z0t5moE6I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-12-09T19:19:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kpT1lby-NQ26nQNjfyE_thmfgL4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_oWDd5GAlug"
+      },
+      "snippet": {
+        "publishedAt": "2013-11-29T17:45:47Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "TV Camara - Lauro de Freitas - 28/11/2013",
+        "description": "Sessão da Camara de Vereadores de Lauro de Freitas do dia 28/11/2013.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_oWDd5GAlug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_oWDd5GAlug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_oWDd5GAlug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-11-29T17:45:47Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NHoK8fuUxtd1iqdkMh6PJE83RbE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OQG-swJ2iM4"
+      },
+      "snippet": {
+        "publishedAt": "2013-11-29T17:43:58Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "TV Camara - Lauro de Freitas - 19/11/2013 - Parte 1",
+        "description": "Sessão da Camara de Vereadores de Lauro de Freitas do dia 19/11/2013 - Parte 1.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OQG-swJ2iM4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OQG-swJ2iM4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OQG-swJ2iM4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-11-29T17:43:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LpWDY6hy3kcXEQ5y44C6cMnNQaA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "0jotwSXUdPU"
+      },
+      "snippet": {
+        "publishedAt": "2013-11-29T17:15:45Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "TV Camara - Lauro de Freitas - 14/11/2013 - Parte 2",
+        "description": "Sessão da Camara de Vereadores de Lauro de Freitas do dia 14/11/2013 - Parte 2.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0jotwSXUdPU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0jotwSXUdPU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0jotwSXUdPU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-11-29T17:15:45Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eIyv1-7qD7is31O3IkQsrdVReFA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P8uf1p6KvX4"
+      },
+      "snippet": {
+        "publishedAt": "2013-11-29T17:07:27Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "TV Camara - Lauro de Freitas - 19/11/2013 - Parte 2",
+        "description": "Sessão da Camara de Vereadores de Lauro de Freitas do dia 19/11/2013 - Parte 2.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P8uf1p6KvX4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P8uf1p6KvX4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P8uf1p6KvX4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-11-29T17:07:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uVF0FRwm7UQYa-S_8kMEOpKu03U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OLJvlxKMBgA"
+      },
+      "snippet": {
+        "publishedAt": "2013-11-29T17:01:56Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "TV Camara - Lauro de Freitas - 14/11/2013 - Parte 1",
+        "description": "Sessão da Camara de Vereadores de Lauro de Freitas do dia 14/11/2013 - Parte 1.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OLJvlxKMBgA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OLJvlxKMBgA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OLJvlxKMBgA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-11-29T17:01:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KMYw5kn1YRhHdIL7VYerUFz2HZ8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6yvlMCjfWtc"
+      },
+      "snippet": {
+        "publishedAt": "2013-10-01T20:36:11Z",
+        "channelId": "UC2qcFS3gIq5sJouBJzw6nSA",
+        "title": "Miúda Açucarada",
+        "description": "Miúda Açucarada.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6yvlMCjfWtc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6yvlMCjfWtc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6yvlMCjfWtc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Diferente Producões",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-10-01T20:36:11Z"
+      }
+    }
+  ]
+}

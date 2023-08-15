@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script
+      src="https://kit.fontawesome.com/42013db043.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <title>TV Diferente</title>
+  </head>
+  <body>
+    <!-- Cabeçalho -->
+    <header>
+      <img src="./assets/logoTV.png" alt="logo" class="logo" />
+      <span class="ads">Anuncie aqui!</span>
+    </header>
+    <nav>
+      <ul id="menu">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">|</a></li>
+        <li><a href="#">A TV</a></li>
+        <li><a href="#">|</a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">|</a></li>
+        <li><a href="#">Contato</a></li>
+      </ul>
+    </nav>
+    <main>
+      <div>
+        <div class="title">
+          <img src="./assets/BAR.png" alt="" class="bar" />
+          <h5>Últimas Transmissões</h5>
+        </div>
+        <div class="videos">
+          <div id="lastPlayed"></div>
+          <div id="recentPlayed">
+            <div id="recentList"></div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <section>
+      <div class="title">
+        <img src="./assets/BAR.png" alt="" class="bar" />
+        <h5>Programação</h5>
+      </div>
+      <div class="wrapper">
+        <div class="card">
+          <div class="poster">
+            <img src="./assets/AMIL_Card.png" alt="Location Unknown" />
+          </div>
+          <div class="details">
+            <h1>Programa Amil</h1>
+            <h2>seg - qua - sex | 10:00h</h2>
+            <p class="desc">
+              Milena comanda um programa recheado de arte, cultura, política e
+              entretenimento.
+            </p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="poster">
+            <img src="./assets/News_Card.png" alt="Location Unknown" />
+          </div>
+          <div class="details">
+            <h1>Diferente News</h1>
+            <h2>Diariamente | 12h e 18h</h2>
+            <p class="desc">
+              O que acontece de maiis importante em Lauro de Freitas e RMS,
+            </p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="poster">
+            <img src="./assets/Sports_Card.png" alt="Location Unknown" />
+          </div>
+          <div class="details">
+            <h1>Diferente Sports</h1>
+            <h2>seg - qua - sex | 14:00h</h2>
+            <p class="desc">
+              Marco, a disillusioned backpacker in his late 20s, embarks on a
+              solitary journey in search.
+            </p>
+          </div>
+        </div>
+        <div class="card">
+          <div class="poster">
+            <img src="./assets/AMIL_Card.png" alt="Location Unknown" />
+          </div>
+          <div class="details">
+            <h1>Programa Amil</h1>
+            <h2>seg - qua - sex | 10:00h</h2>
+            <p class="desc">
+              Marco, a disillusioned backpacker in his late 20s, embarks on a
+              solitary journey in search.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer>
+      <ul class="social-icons">
+        <li>
+          <a href="#"><i class="fa fa-instagram"></i></a>
+        </li>
+        <li>
+          <a href="#"><i class="fa fa-twitter"></i></a>
+        </li>
+        <li>
+          <a href="#"><i class="fa fa-facebook"></i></a>
+        </li>
+        <li>
+          <a href="#"><i class="fa fa-youtube"></i></a>
+        </li>
+      </ul>
+    </footer>
+  </body>
+  <script src="./scripts.js" type="module"></script>
+</html>

@@ -1,0 +1,283 @@
+@import url("https://fonts.googleapis.com/css2?family=Alata&family=Hanken+Grotesk:wght@500;700;800&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+  font-size: 62, 5%;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+header {
+  background-color: #6d3232;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20vw;
+  flex-wrap: wrap;
+}
+
+.logo {
+  width: 189px;
+  height: 156px;
+}
+
+.ads {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Alata;
+  background: #d9d9d9;
+  width: 728px;
+  height: 90px;
+}
+
+nav {
+  background-color: #241f1f;
+}
+
+#menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  font-family: Alata;
+  font-size: 1rem;
+  height: 50px;
+}
+#menu a {
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+main {
+  background-image: url("./assets/blurredBg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: fit-content;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  text-align: center;
+}
+
+.bar {
+  width: 98.9vw;
+  height: 40px;
+}
+
+.title h5 {
+  font-family: Alata;
+  color: #fff;
+  margin-top: -45px;
+  text-shadow: 2px 2px 1px #241f1f;
+}
+
+.videos {
+  padding-top: 20px;
+  gap: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+#recentList {
+  max-height: 315px;
+  overflow-y: scroll;
+}
+
+#recentList li {
+  list-style: none;
+}
+
+.wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  position: relative;
+  width: 19rem;
+  height: 10.6rem;
+  background: #000;
+  border-radius: 15px;
+  overflow: hidden;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.poster {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.poster::before {
+  content: "";
+  position: absolute;
+  /* bottom: -45%; */
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  transition: 0.3s;
+}
+
+.card:hover .poster::before {
+  bottom: 0;
+}
+
+.poster img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: 0.3s;
+}
+
+.card:hover .poster img {
+  transform: scale(1.1);
+}
+
+.details {
+  position: absolute;
+  bottom: -140%;
+  left: 0;
+  width: 100%;
+  height: auto;
+  padding: 1.5em 1.5em 2em;
+  background: #000a;
+  backdrop-filter: blur(16px) saturate(120%);
+  transition: 0.3s;
+  color: #fff;
+  z-index: 2;
+}
+
+.card:hover .details {
+  bottom: 0;
+}
+
+.details h1,
+.details h2 {
+  font-weight: 700;
+  font-family: Alata;
+}
+
+.details h1 {
+  font-size: 1em;
+  margin-bottom: 5px;
+}
+
+.details h2 {
+  font-weight: 400;
+  font-size: 0.7em;
+  margin-bottom: 10px;
+  opacity: 0.6;
+}
+
+.details .desc {
+  color: #fff;
+  opacity: 0.8;
+  line-height: 1;
+  margin-bottom: -1.8em;
+  font-size: 1rem;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #241f1f;
+}
+
+.social-icons {
+  padding: 0;
+  list-style: none;
+  margin: 1em;
+}
+.social-icons li {
+  display: inline-block;
+  margin: 0.15em;
+  position: relative;
+  font-size: 1.2em;
+}
+.social-icons i {
+  color: #fff;
+  position: absolute;
+  top: 17px;
+  left: 17px;
+  transition: all 265ms ease-out;
+}
+.social-icons a {
+  display: inline-block;
+}
+
+.social-icons a::before {
+  transform: scale(1);
+  content: " ";
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  display: block;
+  background: linear-gradient(45deg, #ff0000, #e68d8d);
+  transition: all 265ms ease-out;
+}
+
+.social-icons a:hover::before {
+  transform: scale(0);
+  transition: all 265ms ease-in;
+}
+
+.social-icons a:hover i {
+  transform: scale(2.2);
+  color: #ff0000;
+  background: linear-gradient(45deg, #ff0000, #e68d8d);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 265ms ease-in;
+}
+
+@media screen {
+  header {
+    justify-content: center;
+    padding-bottom: 10px;
+  }
+
+  #menu {
+    gap: 1rem;
+  }
+  #recentList {
+    max-height: 315px;
+    width: 100%;
+    display: grid;
+  }
+}
